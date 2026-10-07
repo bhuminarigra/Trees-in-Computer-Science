@@ -4,10 +4,6 @@ SLA Stage 1 article on Trees in Computer Science, covering tree concepts, real-l
 
 ## SLA Stage 1 – Self-Learning Activity
 
-**Subject:** Automata Compiler Design
-**Area:** Discrete Structures – Trees
-**Activity Type:** Self-Learning Activity (SLA)
-
 ---
 
 ## Introduction
@@ -29,8 +25,6 @@ A tree consists of **nodes** connected by **edges**. The topmost node is called 
 <img width="474" height="343" alt="image" src="https://github.com/user-attachments/assets/e92fadff-9318-4fa3-b100-3a480d0fa37b" />
 
 
-
-*Figure 1: Basic structure of a tree showing root, parent, child, and leaf nodes.*
 
 For example:
 
@@ -65,7 +59,6 @@ This expression can be represented using a tree structure.
 <img width="1024" height="692" alt="image" src="https://github.com/user-attachments/assets/f1138539-a350-4867-834a-528ff43a530c" />
 
 
-*Figure 2: Expression tree representing the expression (3 × 2) + 5.*
 
 The root represents the `+` operation. Its left child represents the multiplication operation, while its right child represents the value 5. The multiplication node has 3 and 2 as its children.
 
@@ -87,8 +80,6 @@ Computer operating systems organize files and folders hierarchically. A main fol
 
 <img width="642" height="424" alt="image" src="https://github.com/user-attachments/assets/2896e5af-f0ca-4377-b594-25c99d37e388" />
 
-
-*Figure 3: Tree representation of a computer file and folder structure.*
 
 For example, a main folder may contain folders such as **Documents**, **Pictures**, and **Projects**. Each of these folders can contain more files and folders.
 
